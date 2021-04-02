@@ -2,7 +2,7 @@
 Room replace SharedPreferences
 
 # project build.gradle
-    allprojects {
+```allprojects {
     repositories {
        google()
        jcenter()
@@ -10,9 +10,9 @@ Room replace SharedPreferences
             url "https://raw.githubusercontent.com/ximenGG/keyvalue/master"
        }
     }
-    }
+    }```
 
 # app build.gradle       
-    dependencies {
+```dependencies {
     implementation "androidx.keyvalue:keyvalue:2.0.0"
-    }
+    }```
