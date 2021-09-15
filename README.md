@@ -28,6 +28,6 @@ allprojects {
 # app build.gradle       
 ```
 dependencies {
-    implementation "androidx.keyvalue:keyvalue:2.0.0"
+    implementation "androidx.keyvalue:keyvalue:1.0.0"
 }
 ```
